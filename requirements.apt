@@ -16,3 +16,4 @@ systemctl
 unzip
 wget
 zlib1g
+python3-distutils
